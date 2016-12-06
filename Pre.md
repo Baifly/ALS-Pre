@@ -10,27 +10,33 @@ The cooperative principle goes both ways: speakers _generally_ observe the coope
 
 ## Four Maxim's
 ### Introduction[Alex]
-The cooperative principle can be divided into four maxims, called the Gricean Maxims, describing specific rational principles observed by people who obey the cooperative principle; these principles enable effective communication. Grice proposed four conversational maxims that arise from the pragmatics of natural language. Applying the Gricean Maxims is a way to explain the link between utterances and what is understood from them.
+The cooperative principle can be divided into four maxims, called the Gricean Maxims,(/blackboard("Gricean Maxims")) describing specific rational principles observed by people who obey the cooperative principle; these principles enable effective communication. Grice proposed four conversational maxims that arise from the pragmatics(practices) of natural language. Applying the Gricean Maxims is a way to explain the link between utterances and what is understood from them.
 
-### Maxim of Quality[A]
+### Maxim of Quality[A](/blackboard("Quality"))
 #### Summary
-1. Do not say what you believe to be false.
-2. Do not say that for which you lack adequate evidence.
+1. Never say what you believe to be false.
+2. Never say what you can't back up.
 
 #### Examples
+Here are two examples showing how we break the maxims. I think the first one is famillar to all.
+
 1. Comb
-> O: Guess whether the comb in my hand is red or green. If you are right i'll give my pretty blue comb to you.
+> O: Guess whether the comb in my hand is red or green. (A LONG BREAK) If you are right i'll give my pretty blue comb to you.
 
     This is a matter of presupposition, and I categorize it in this part. That's because what you say convinces the other speaker the comb is red or green, but actually neither.
+    The second is a little 
 	
-2. London in USA
-> B: Is Bangkok in India?
+2. London in USA(Say it clearly)
+> B: Ms. Tedy, is Bangkok in India?
 > 
 > T: yes, just as London is in america
 	
-    I think everyone knows what the previous example means, but it is just a joke when you see from outside, or you are habing a meta-view. Now think as if you are the student in the dialog. You must be confused because the teacher tell you that London is in america, but you know that it's in Britain. this contradicts to the rule and finally the student still doesnt know whether bangkok is in india.
+    I think everyone knows what the previous example means, but it is just a joke when you see from outside, or you are having a meta-view. Now think as if you are the student in the dialog. You must be confused because the teacher tell you that London is in america, but you know that it's in Britain. this contradicts to the maxim and finally the student still doesnt know whether bangkok is in india.
+    
+### conclusion
+The maxim of quality is the most basic one, and rarely we break them, just remember: Be honest. The following three can be common among us.
 
-### Maxim of Quantity[B]
+### Maxim of Quantity[B](/blackboard("Quantity"))
 - Make your contribution as informative as is required (for the current purposes of the exchange).
 - Do not make your contribution more informative than is required.
 
@@ -50,11 +56,11 @@ me .
 >
 > (She opens the door and Alex enters.) 
 >
-ALAN, A, this is …everybody .Everybody, this is Alan. 
+> T:Alex, this is …everybody .Everybody, this is Alan. 
 >
-> Alan: Hi . 
+> A: Hi . 
 >
-> All: Hi, Alan. (Friends, 1995) 
+> All: Hi, Alex. (Friends, 1995) 
 
   Instead of introducing her five friends one by one, Monica just uses one word 
 “everyone” to represent five friends when she introduces them to her new boyfriend 
@@ -74,7 +80,7 @@ much about them, do not have to introduce them one by one.”
 #### Conclusion 
 Quantity is a very important principle of the cooperative principles. And it is widely used in our daily life. On one hand, in our daily conversation, we should give enough information to the listener according to this principle. If we do so, the listener can easily get the information they need and we can avoid many unnecessary misunderstandings and troubles. As a result, our communication will be very pleasant. On the other hand, in some of our conversations, if there is some information what we don't want to give to the listener, then we can violate the quantity principle appropriately. Because we still obey the cooperative principle by giving little information. Besides, we also save the listener's face at the same time. In a word, it will be very useful if we can make good use of the quantity principle. And the quantity principle is a good strategy of communication.
 
-### Maxim of Relevance
+### Maxim of Relevance(/blackboard("Relevance"))
 - Be Relevant
 With respect to this maxim, Grice writes, "Though the maxim itself is terse, its formulation conceals a number of problems that exercise me a good deal: questions about what different kinds and focuses of relevance there may be, how these shift in the course of a talk exchange, how to allow for the fact that subjects of conversations are legitimately changed, and so on. I find the treatment of such questions exceedingly difficult, and I hope to revert to them in later work."
 
@@ -101,16 +107,12 @@ Flouting Relation
 > A:  (Letter of Recommendation) What qualities does John have for this position?   
 >
 > B:  John has nice handwriting.     +> John is not qualified for the job  
->
-> b. A:  Susan can be such a cow sometimes!   
->
-> B:  Lovely weather, isn’t it?     +> B finds A’s comment inappropriate (for some reason or other)
 
-  Relation Implicatures  a. Pass the salt   +> Pass the salt now  b. A: Can you tell me the time?   B: Well, the milkman has come    +> The time now is after the time the milkman arrived 
+//Relation Implicatures  a. Pass the salt   +> Pass the salt now  b. A: Can you tell me the time?   B: Well, the milkman has come    +> The time now is after the time the milkman arrived 
  
   In this example, the utterance is in the imperative so it has no contrast between present and past tense. The speaker has made a request but has not signaled when he wishes the salt. On a literal level, the speaker is not observing the maxim of relation but the addressee assumes that on a deeper level he is. The addressee infers that the request is relates to the here and now. The implicature is therefore pass the salt now. In (16b), A asks the time. B’s reply is not literally relevant to the question. A assumes be is cooperating and being relevant. A infers that B is relating the time at which the milkman came to the current time. The implicature is thus that the time now is after the time the milkman arrived. [Please don’t assume this is the only implicature—there is nothing to prevent one utterance from resulting in several implicatures.]   Lastly, manner implicatures have to do with the form of the utterance. The maxim of manner requires that an utterance be perspicuous. When the speaker does not observe this maxim, his utterance is obscure or ambiguous or disorderly and this is intended to convey an implicit meaning. 
 
-### Maxim of Manner
+### Maxim of Manner(/blackboard("Manner"))
 The last maxim is not about the content, but about the way we communicate. As Paul Grice pointed out, the conversation should be perspicacious. More specifically, we should avoid obscurity of expression, avoid ambiguity, be brief, and be orderly.
 
 #### Explanation
