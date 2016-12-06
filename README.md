@@ -1,36 +1,36 @@
 # ALS Pre
-## Introduction
+## Introduction[Owen]
 During the following discussion, we will introduce "the cooperative principle".
 In social science generally and linguistics specifically, the cooperative principle describes how effective communication in conversation is achieved in common social situations, that is, how listeners and speakers must act cooperatively and mutually accept one another to be understood in a particular way. As phrased by **Paul Grice**, a British philosopher of language who introduced it, "Make your contribution such as it is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged." Though phrased as a prescriptive command, the principle is intended as a description of how people normally behave in conversation.
 
-## Why we should obey
+## Why we should obey[Bigfire]
 Those who obey the cooperative principle in their language use will make sure that what they say in a conversation furthers the purpose of that conversation. Obviously, the requirements of different types of conversations will be different.
 
 The cooperative principle goes both ways: speakers _generally_ observe the cooperative principle, and listeners _generally_ assume that speakers are observing it. This allows for the possibility of implicatures, which are meanings that are not explicitly conveyed in what is said, but that can nonetheless be inferred. 
 
 ## Four Maxim's
-### Introduction
+### Introduction[Alex]
 The cooperative principle can be divided into four maxims, called the Gricean Maxims, describing specific rational principles observed by people who obey the cooperative principle; these principles enable effective communication. Grice proposed four conversational maxims that arise from the pragmatics of natural language. Applying the Gricean Maxims is a way to explain the link between utterances and what is understood from them.
 
-### Maxim of Quality
+### Maxim of Quality[A]
 #### Summary
 1. Do not say what you believe to be false.
 2. Do not say that for which you lack adequate evidence.
 
 #### Examples
-1. Combs
-> Guess whether the comb in my hand is red or green. If you are right i'll give my pretty blue comb to you.
+1. Comb
+> O: Guess whether the comb in my hand is red or green. If you are right i'll give my pretty blue comb to you.
 
     This is a matter of presupposition, and I categorize it in this part. That's because what you say convinces the other speaker the comb is red or green, but actually neither.
 	
 2. London in USA
-> S:Is Bangkok in India?
+> B: Is Bangkok in India?
 > 
-> T:yes, just as London is in america
+> T: yes, just as London is in america
 	
     I think everyone knows what the previous example means, but it is just a joke when you see from outside, or you are habing a meta-view. Now think as if you are the student in the dialog. You must be confused because the teacher tell you that London is in america, but you know that it's in Britain. this contradicts to the rule and finally the student still doesnt know whether bangkok is in india.
 
-### Maxim of Quantity
+### Maxim of Quantity[B]
 - Make your contribution as informative as is required (for the current purposes of the exchange).
 - Do not make your contribution more informative than is required.
 
@@ -39,18 +39,18 @@ Complex activities, by definition, contain a large amount of detail.  When peopl
 
 #### Example of the maxim of quantity
 1. giving less information
-> Monica: Hey. It’s him. (On the intercom) Who is it?
+> T: Hey. It’s him. (On the intercom) Who is it?
 > 
-> Alan: (on the intercom) It’s Alan. 
+> A: (on the intercom) It’s Alex. 
 > 
-> Joey : (shouting to Chandler) Chandler! He’s here! 
+> O : (shouting to Chandler) Chandler! He’s here! 
 >
-> Monica: (to all ) Ok, please be good, please. Just remember how much you all like 
+> T: (to all ) Ok, please be good, please. Just remember how much you all like 
 me . 
 >
-> (She opens the door and Alan enters.) 
+> (She opens the door and Alex enters.) 
 >
-> Monica: Hi, Alan, this is …everybody .Everybody, this is Alan. 
+ALAN, A, this is …everybody .Everybody, this is Alan. 
 >
 > Alan: Hi . 
 >
@@ -150,7 +150,7 @@ B has told the very precise location, but it is quite clear that the information
 How to briefly convey that there is a very good movie. Maybe A is not interested in watching films.
 
 
-## Flouting the maxims
+## Flouting the maxims[Tedy]
 Without cooperation, human interaction would be far more difficult and counterproductive. Therefore, the Cooperative Principle and the Gricean Maxims are not specific to conversation but to verbal interactions in general. For example, it would not make sense to reply to a question about the weather with an answer about groceries because it would violate the Maxim of Relevance. Likewise, responding to a simple yes/no question with a long monologue would violate the Maxim of Quantity.
 
 However, it is possible to flout a maxim intentionally or unconsciously and thereby convey a different meaning than what is literally spoken. As we have shown in the examples before, many times in conversation, this flouting is manipulated by a speaker to produce a negative pragmatic effect, as with sarcasm or irony.
