@@ -25,6 +25,7 @@ The cooperative principle can be divided into four maxims, called the Gricean Ma
 	
 2. London in USA
 > S:Is Bangkok in India?
+> 
 > T:yes, just as London is in america
 	
     I think everyone knows what the previous example means, but it is just a joke when you see from outside, or you are habing a meta-view. Now think as if you are the student in the dialog. You must be confused because the teacher tell you that London is in america, but you know that it's in Britain. this contradicts to the rule and finally the student still doesnt know whether bangkok is in india.
@@ -38,14 +39,21 @@ Complex activities, by definition, contain a large amount of detail.  When peopl
 
 #### Example of the maxim of quantity
 1. giving less information
-> Monica: Hey. It’s him. (On the intercom) Who is it? 
+> Monica: Hey. It’s him. (On the intercom) Who is it?
+> 
 > Alan: (on the intercom) It’s Alan. 
+> 
 > Joey : (shouting to Chandler) Chandler! He’s here! 
+>
 > Monica: (to all ) Ok, please be good, please. Just remember how much you all like 
 me . 
+>
 > (She opens the door and Alan enters.) 
+>
 > Monica: Hi, Alan, this is …everybody .Everybody, this is Alan. 
+>
 > Alan: Hi . 
+>
 > All: Hi, Alan. (Friends, 1995) 
 
   Instead of introducing her five friends one by one, Monica just uses one word 
@@ -58,6 +66,7 @@ much about them, do not have to introduce them one by one.”
 
 2. giving more information
 > Owen: Hello. Are you in the dormitory? Can you bring my book to the second teaching building.I forget to take it with me this morning. How careless I am! It’s on my table,right under a series books.Maybe under the computer or on the shelf.It’s my English book,the bule one,not the green one.
+>
 > Bob: What?
 
   In terms of quantity of information, what Owen need to say to Bob is as follow: help him find his English book in the dormitory. That is enough. But Owen provides a quantity of redundant information,just making it more unclear.
@@ -68,6 +77,38 @@ Quantity is a very important principle of the cooperative principles. And it is 
 ### Maxim of Relevance
 - Be Relevant
 With respect to this maxim, Grice writes, "Though the maxim itself is terse, its formulation conceals a number of problems that exercise me a good deal: questions about what different kinds and focuses of relevance there may be, how these shift in the course of a talk exchange, how to allow for the fact that subjects of conversations are legitimately changed, and so on. I find the treatment of such questions exceedingly difficult, and I hope to revert to them in later work."
+
+#### Examples
+Simply, it would not make sense to reply to a question about the weather with an answer about groceries.
+
+Another example, like this:
+> A: have you gone to see the move last night? I was so busy that time that I missed it.
+>
+> B: Yes, it is pretty good!
+>
+> A: It must be! Can you tell me the main line of the film?
+>
+> B: Oh, I still remember how handsome the chief actor was! And words fail me to describe his wonderful acting skills! …
+>
+> A: I want to know how the story is unfolded …
+>
+> B: the special effects were also unexpected! …
+>
+> C: OK, stop please! What you said lack relevance!
+
+But the lack of relevance may convey other information instead of literal meaning.
+Flouting Relation  
+> A:  (Letter of Recommendation) What qualities does John have for this position?   
+>
+> B:  John has nice handwriting.     +> John is not qualified for the job  
+>
+> b. A:  Susan can be such a cow sometimes!   
+>
+> B:  Lovely weather, isn’t it?     +> B finds A’s comment inappropriate (for some reason or other)
+
+  Relation Implicatures  a. Pass the salt   +> Pass the salt now  b. A: Can you tell me the time?   B: Well, the milkman has come    +> The time now is after the time the milkman arrived 
+ 
+  In this example, the utterance is in the imperative so it has no contrast between present and past tense. The speaker has made a request but has not signaled when he wishes the salt. On a literal level, the speaker is not observing the maxim of relation but the addressee assumes that on a deeper level he is. The addressee infers that the request is relates to the here and now. The implicature is therefore pass the salt now. In (16b), A asks the time. B’s reply is not literally relevant to the question. A assumes be is cooperating and being relevant. A infers that B is relating the time at which the milkman came to the current time. The implicature is thus that the time now is after the time the milkman arrived. [Please don’t assume this is the only implicature—there is nothing to prevent one utterance from resulting in several implicatures.]   Lastly, manner implicatures have to do with the form of the utterance. The maxim of manner requires that an utterance be perspicuous. When the speaker does not observe this maxim, his utterance is obscure or ambiguous or disorderly and this is intended to convey an implicit meaning. 
 
 ### Maxim of Manner
 The last maxim is not about the content, but about the way we communicate. As Paul Grice pointed out, the conversation should be perspicacious. More specifically, we should avoid obscurity of expression, avoid ambiguity, be brief, and be orderly.
@@ -85,20 +126,25 @@ We should tell things in logical or chronological order, so that the listener ca
 #### Examples
 ##### Stick on myself
 > A: Here’s your five-cent stamp.
+>
 > B, with arms full of bundles: Do I have to stick it on myself?
+>
 > A: Nope. On the envelope.
 
 So this a very good exmaple showing how ambiguity teases both of the communicators. By asking A whether he/she needs to stick th stamp on by himself/herself, B intends to make A help him/her do that. Unfortunately, A misunderstood his/her words, so A replies that B has no trouble to stick the stamp on the body.
 
 ##### Asking for locations
 > A: Where is the nearest subway station?
+>
 > B. Latitude 39 degrees, 59 minutes, 23 seconds, longitude 116 degrees, 18 minutes, 34 seconds, elevation 43 feet above sea level, door faces 14 degrees east of due south.
+>
 > A. Thanks a bunch, I'll go right there. Just let me get out my GPS device.
 
 B has told the very precise location, but it is quite clear that the information is useless if there no GPS device at hand.
 
 ##### Another exmaple
 > A: Our local cinema will be displaying a series of still images featuring a costly CGI tonight.
+>
 > B: Do you mean there is an exciting film with a fantasy movie effects on release?
 
 How to briefly convey that there is a very good movie. Maybe A is not interested in watching films.
